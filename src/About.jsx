@@ -6,8 +6,10 @@ function About({ scrollToProjects }) {
   return (
     <section className="section">
       <div className="about-container">
-        <AboutText />
-        <AboutCard />
+        <div className="first-row">
+          <AboutText />
+          <AboutCard />
+        </div>
         <HeaderButtons scrollToProjects={scrollToProjects} />
       </div>
     </section>
