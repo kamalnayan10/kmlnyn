@@ -36,9 +36,7 @@ function Projects({ ref }) {
           title="kmlnyn.com"
           tags={["React", "Vite", "CSS", "UI/UX"]}
           description="A developer portfolio built using modern web technologies to showcase my projects, skills, and experience. Designed with minimalism, responsiveness, and clarity in mind."
-          code_link={
-            "https://github.com/kamalnayan10/PyTorchML/tree/main/Sound_processing"
-          }
+          code_link={"https://github.com/kamalnayan10/kmlnyn"}
         />
         <Link
           link="https://github.com/kamalnayan10?page=1&tab=repositories"
