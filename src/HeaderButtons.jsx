@@ -9,7 +9,7 @@ function HeaderButtons({ scrollToProjects }) {
       <Button type="primary" onClickFn={scrollToProjects}>
         Projects
       </Button>
-      <Link link="https://drive.google.com/file/d/1OWU-Te4Txh8UVEx80lkUGlKwHkfEV1RX/view?usp=sharing">
+      <Link link="https://drive.google.com/file/d/1XSKAZ0MFejlz6vFmpmDiuFeaSKqv79Dg/view?usp=sharing">
         <Button type="secondary">
           Resume <RxDownload />
         </Button>
