@@ -11,8 +11,8 @@ function Contact() {
         <p>
           I'm always open to interesting opportunities, collaborations, or just
           a good tech conversation. Feel free to reach out at{" "}
-          <Link link={"mailto:kamalnayan04@gmail.com"} clas="underline-hover">
-            kamalnayan04@gmail.com
+          <Link link={"mailto:hi@kmlnyn.com"} clas="underline-hover">
+            hi@kmlnyn.com
           </Link>{" "}
           or feel free to link up with me on my socials
         </p>
