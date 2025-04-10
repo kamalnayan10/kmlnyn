@@ -564,6 +564,20 @@ a.underline-hover:hover::after {
 
 /* Tablets (portrait) and small laptops */
 @media (max-width: 768px) {
+  .bg-blob {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50vw; /* Viewport relative sizing */
+    height: 50vw;
+    max-width: 800px;
+    max-height: 800px;
+    background: radial-gradient(circle, var(--light_purple), transparent 90%);
+    border-radius: 50%;
+    pointer-events: none;
+    filter: blur(60px);
+    opacity: 0.6;
+  }
   .header-section,
   .about-container,
   .projects-container,
