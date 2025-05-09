@@ -25,12 +25,10 @@ function Projects({ ref }) {
           code_link={"https://github.com/kamalnayan10/rust-edit-textEditor"}
         />
         <Project
-          title="TuneClassify"
-          tags={["PyTorch", "Torchaudio", "Deep Learning", "Sound Processing"]}
-          description="A music genre classification model built with PyTorch that classifies audio tracks into 10 genres. This project includes a custom audio dataset loader, preprocessing with torchaudio, and a deep neural network trained end-to-end for accurate genre prediction."
-          code_link={
-            "https://github.com/kamalnayan10/PyTorchML/tree/main/Sound_processing"
-          }
+          title="Edit से Majboor"
+          tags={["Python", "StableDiffusion", "SAM2", "React", "TailwindCSS"]}
+          description="An end-to-end deep learning image editing app that uses Stable Diffusion inpainting and SAM2 segmentation to remove unwanted objects or add new content. It features a Vite + React + Tailwind CSS frontend with prompt-driven editing and click-to-auto-select masks, backed by a FastAPI API powering high-performance inference."
+          code_link={"https://github.com/kamalnayan10/EditSeMajboor"}
         />
         <Project
           title="kmlnyn.com"
