@@ -37,7 +37,7 @@ This is my personal portfolio website built with **React + Vite**, showcasing my
 
 ```bash
 git clone https://github.com/kamalnayan10/kmlnyn.git
-cd portfolio-site
+cd kmlnyn
 ```
 
 This project is open-source and free to use under the MIT License.
