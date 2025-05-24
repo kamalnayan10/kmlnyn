@@ -6,7 +6,7 @@ This is my personal portfolio website built with **React + Vite**, showcasing my
 
 ## 🌐 Live Demo
 
-[https://yourdomain.netlify.app](https://yourdomain.netlify.app)
+[https://kmlnyn.com/](https://kmlnyn.com/)
 
 ---
 
