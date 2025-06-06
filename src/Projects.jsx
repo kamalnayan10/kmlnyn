@@ -19,6 +19,12 @@ function Projects({ ref }) {
           code_link={"https://github.com/kamalnayan10/WashAway"}
         />
         <Project
+          title="ShrinkAI"
+          tags={["Python", "PyTorch", "Compression", "Research"]}
+          description="ShrinkAI is a deep learning-based image compression model that combines Fast Fourier Convolutions (FFC) with a hyperprior entropy model to achieve high compression rates while preserving image quality. Inspired by Ballé et al. (2018), it uses PyTorch + CompressAI and reconstructs near-original images with a ~70% size reduction."
+          code_link={"https://github.com/kamalnayan10/shrinkAI"}
+        />
+        <Project
           title="RustEdit"
           tags={["Rust", "Crossterm", "Systems Programming"]}
           description="A lightweight, cross-platform command-line text editor built with Rust and the Crossterm library. Inspired by neo-vim, this editor offers an efficient and responsive editing experience across Windows, macOS, and Linux."
